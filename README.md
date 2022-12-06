@@ -1,1 +1,4 @@
-# P3-Matrix-128x64-Esp32-SD-CARD-DHT11-RTC-DS1307
+# Analog and Digital Clocks weather station temperature and humidity Scrolling Text 
+Digital & Analog weather station clock
+* by 3tawi
+* Lien vidéo: https://youtu.be/QwzR59GjA3U
